@@ -156,17 +156,6 @@ All operations persist changes to task.json so data is not lost between restarts
 Task names should be unique to avoid unintended updates/deletes.
 
 ---
-
-## 🧠 Future Improvements
- Use task ID instead of name for update/delete
-
- Add duplicate task name validation
-
- Add timestamp for created/updated tasks
-
- Add unit tests and error logging
-
----
 ## 📜 License
 This project is licensed under the MIT License
 
